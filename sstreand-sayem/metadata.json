@@ -1,0 +1,6 @@
+{
+  "name": "SSTREAND SHOP",
+  "description": "SSTREAND SHOP — Premium women's fashion, handbags, beauty products, and radiant skincare e-commerce platform in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
